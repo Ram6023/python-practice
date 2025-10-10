@@ -49,26 +49,21 @@ Demonstrates string manipulation and use of loops and conditionals.
 To run these Streamlit apps on your local system:
 
 1. Clone the Repository
+
 git clone https://github.com/Ram6023/python-practice.git
 cd python-practice
 
-2. Install Dependencies
-pip install streamlit
 
-3. Run Any Streamlit App
-streamlit run cgpa.py
-
-
-or for another project:
-
-streamlit run employee_salary-tds.py
 
 🧰 Technologies Used
-Technology	Description
-Python 3.10+	Programming language
-Streamlit	Interactive web app framework
-Datetime	Date and time calculations (if applicable)
-GitHub	Version control and code hosting
+
+| Technology       | Description                                |
+| ---------------- | ------------------------------------------ |
+| **Python 3.10+** | Programming language                       |
+| **Streamlit**    | Interactive web app framework              |
+| **Datetime**     | Date and time calculations (if applicable) |
+| **GitHub**       | Version control and code hosting           |
+
 👨‍💻 Author Information
 
 Name: V. Sriram
