@@ -50,7 +50,7 @@ To run these Streamlit apps on your local system:
 
 1. Clone the Repository
 
-git clone https://github.com/Ram6023/python-practice.git
+'''git clone https://github.com/Ram6023/python-practice.git
 cd python-practice
 
 
