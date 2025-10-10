@@ -1,16 +1,18 @@
 🧠 Streamlit Python Mini Projects Collection
 
-
 This repository contains a collection of interactive Python mini projects built using Streamlit.
 Each app demonstrates key Python programming concepts — from basic logic and loops to applied numerical computing — all presented through simple, interactive web-based applications.
 
+
+
 🌐 Live Streamlit Apps
-#	App Name	Description	Live Link
-1	CGPA Converter	Converts CGPA to Percentage and vice versa.	Open App
+| # | App Name                             | Description                                                         | Live Link                                        |
+| - | ------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------ |
+| 1 | **CGPA Converter**                   | Converts CGPA to Percentage and vice versa.                         | [Open App](https://rammcgpa.streamlit.app/)      |
+| 2 | **Employee Salary / TDS Calculator** | Calculates employee salary and applicable TDS deductions.           | [Open App](https://sriramnaidu.streamlit.app/)   |
+| 3 | **Petrol Pump Calculator**           | Calculates total petrol cost based on price per liter and quantity. | [Open App](https://petrol-diesel.streamlit.app/) |
 
-2	Employee Salary / TDS Calculator	Calculates employee salary and applicable TDS deductions.	Open App
 
-3	Petrol Pump Calculator	Calculates total petrol cost based on price per liter and quantity.	Open App
 🧩 Project Overview
 1. CGPA Converter
 
@@ -46,19 +48,14 @@ Demonstrates string manipulation and use of loops and conditionals.
 
 To run these Streamlit apps on your local system:
 
-Clone the Repository
-
+1. Clone the Repository
 git clone https://github.com/Ram6023/python-practice.git
 cd python-practice
 
-
-Install Dependencies
-
+2. Install Dependencies
 pip install streamlit
 
-
-Run Any Streamlit App
-
+3. Run Any Streamlit App
 streamlit run cgpa.py
 
 
@@ -67,15 +64,11 @@ or for another project:
 streamlit run employee_salary-tds.py
 
 🧰 Technologies Used
-
-Python 3.10+
-
-Streamlit — Interactive web app framework
-
-Datetime — Date-based calculations (where applicable)
-
-GitHub — Version control and code hosting
-
+Technology	Description
+Python 3.10+	Programming language
+Streamlit	Interactive web app framework
+Datetime	Date and time calculations (if applicable)
+GitHub	Version control and code hosting
 👨‍💻 Author Information
 
 Name: V. Sriram
